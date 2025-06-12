@@ -101,5 +101,5 @@ Learning how professional websites structure their UI
 
 # Design
 
-
+![image alt](https://github.com/anantBachloo/Youtube-Clone/blob/38b4141695ce9d9a86b39e2c3ab2cd022e31c526/screenshot.png)
 
